@@ -9,7 +9,7 @@ updates:
     directory: "/" # Location of package manifests
     schedule:
       interval: "daily"
-      time: "14:09"
+      time: "16:47"
       timezone: "America/Bogota"
     open-pull-requests-limit: 47
       
