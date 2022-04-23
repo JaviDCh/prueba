@@ -11,7 +11,7 @@
     "@cloudcmd/dropbox": "^4.0.3",
     "@types/angular": "^1.6.43",
     "@types/angular-meteor": "^0.8.33",
-    "@types/angular-ui-router": "^1.1.40",
+    "@types/angular-ui-router": "^1.1.41",
     "@types/lodash": "^4.14.74",
     "@types/meteor": "^1.4.14",
     "@types/meteor-roles": "^1.2.33",
