@@ -31,7 +31,7 @@
     "forerunnerdb": "^2.0.22",
     "formik": "^2.1.4",
     "get-stream": "^4.1.0",
-    "isomorphic-fetch": "2.2.1",
+    "isomorphic-fetch": "3.0.0",
     "jszip": "3.7.0",
     "length-stream": "^0.1.1",
     "lodash": "4.17.21",
