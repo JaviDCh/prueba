@@ -64,7 +64,7 @@
     "tabulator-tables": "^4.0.4",
     "ui-select": "0.19.8",
     "xlsx": "0.17.0",
-    "xlsx-injector": "0.0.3"
+    "xlsx-injector": "0.0.4"
   },
   "devDependencies": {
     "@types/jquery": "^3.3.4",
