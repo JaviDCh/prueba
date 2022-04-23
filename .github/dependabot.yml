@@ -11,6 +11,6 @@ updates:
       interval: "daily"
       time: "14:09"
       timezone: "America/Bogota"
-    open-pull-requests-limit: 7
+    open-pull-requests-limit: 47
       
     target-branch: "develop"
