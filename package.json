@@ -45,7 +45,7 @@
     "react-bootstrap": "0.32.4",
     "react-data-grid": "6.0.2-0",
     "react-dom": "16.8.6",
-    "react-hook-form": "7.11.0",
+    "react-hook-form": "7.41.0",
     "react-jsonschema-form": "^1.2.0",
     "react-jsonschema-form-layout-grid": "^2.1.0",
     "react-modal": "3.8.1",
