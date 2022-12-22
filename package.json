@@ -7,7 +7,7 @@
     "deploy_prc": "./run_prc.bat"
   },
   "dependencies": {
-    "@babel/runtime": "^7.8.4",
+    "@babel/runtime": "^7.20.7",
     "@cloudcmd/dropbox": "^4.0.3",
     "@types/angular": "^1.6.43",
     "@types/angular-meteor": "^0.8.33",
