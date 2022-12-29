@@ -13,7 +13,7 @@
     "@types/angular-meteor": "^0.8.33",
     "@types/angular-ui-router": "^1.1.40",
     "@types/lodash": "^4.14.74",
-    "@types/meteor": "^1.4.14",
+    "@types/meteor": "^2.8.2",
     "@types/meteor-roles": "^1.2.33",
     "@types/numeral": "2.0.2",
     "angular": "1.8.0",
